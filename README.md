@@ -1,6 +1,6 @@
 Weight-Tracker
 
-Implement a weight tracker application as a WebSharper client-server application that allows users to:
+I Implement a weight tracker application as a WebSharper client-server application that allows users to:
 
 Enter and store their weight on a given day.
 
